@@ -1,2 +1,26 @@
-# CSGO-config
-Personal configuration files for Counter Strike: Global Offensive
+# Counter Strike: Global Offensive CFGs
+
+Hello.
+
+A lot of time people ask me about my configuration and various setting in game so I decide to put everything on Github because everyone can track any kind of update on my configuration.
+
+## What the heck is this?
+
+It's a Github Repository that contains my CFGs for Counter Strike: Global Offensive.
+
+it is an online tactical and first-person shooter developed by Valve Corporation and Hidden Path Entertainment, who also maintained Counter-Strike: Source after its release. It is the fourth game in the main Counter-Strike franchise.
+
+[Official Blog of CS:GO](http://blog.counter-strike.net)
+
+
+## How to use it
+
+You can download the Zip or Clone the Repository and put the `ludo237` folder inside the `cfg` folder of Counter Strike: Global Offensive
+
+**Default paths:**
+
+* Windows: `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+* OSx: `/Users/<UserName>/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
+* Linux:
+
+Then open you auto exec.cfg and write `exec ludo237\bootstrap` and everything will be loaded :D.
