@@ -23,4 +23,8 @@ You can download the Zip or Clone the Repository and put the `ludo237` folder in
 * OSx: `/Users/<UserName>/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
 * Linux:
 
-Then open you auto exec.cfg and write `exec ludo237\bootstrap` and everything will be loaded :D.
+Then open you auto exec.cfg and write `exec ludo237\bootstrap` and everything will be loaded :D
+
+## Multiple CrossAir
+
+I've some xAir inside `ludo237/xair` folder. You can select one of them in game simply by typing `exec ludo237\xair\<name>`. Also in `ludo237/bootstrap.cfg` you can change the default xAir loaded.
