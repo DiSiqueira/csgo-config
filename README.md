@@ -19,11 +19,18 @@ You can download the Zip or Clone the Repository and put the `ludo237` folder in
 
 **Default paths:**
 
-* Windows: `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
-* OSx: `/Users/<UserName>/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
+* Windows:
+
+`C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+* OSx:
+
+`/Users/<UserName>/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
+
 * Linux:
 
-After that simply open you auto exec.cfg and write `exec ludo237\bootstrap` and everything will be loaded when you start the game.
+``
+
+After that simply open your autoexec.cfg and write `exec ludo237\bootstrap` and everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configurations
 
 ## Multiple CrossAir
 
