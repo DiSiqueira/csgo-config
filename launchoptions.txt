@@ -1,0 +1,1 @@
+-freq 128 -noforcemparms -noforcemspd -noforcemaccel -high -novid +autoexec -tickrate 128 -console -threads 8 -language pirate    
