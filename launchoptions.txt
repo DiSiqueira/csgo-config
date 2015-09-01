@@ -9,7 +9,7 @@
 "-language pirate" ARRRRRR
 "+autoexec" "Execute Autoexec"
 
--high -threads 8 -freq 128 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console -language pirate +autoexec    
+-high -threads 8 -freq 144 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console -language pirate +autoexec    
 
 
 If you are playing on Windows Right click csgo.exe, properties, compatibility,
