@@ -28,7 +28,7 @@ You can download the Zip or Clone the Repository and put the `ludo237` folder in
 
 * Linux:
 
-``
+`~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
 
 After that simply open your autoexec.cfg and write `exec ludo237\bootstrap` and everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configurations
 
