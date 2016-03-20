@@ -8,7 +8,7 @@
 "-console" Open console at startup of CS:GO
 "+autoexec" "Execute Autoexec"
 
--high -threads 8 -freq 144 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec    
+-high -threads 8 -freq 144 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec
 
 If you are playing on Windows Right click csgo.exe, properties, compatibility,
 then check the "Disable visual themes" and "Disable desktop composition".
