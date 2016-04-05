@@ -1,5 +1,4 @@
 "-high" Makes CSGO a high priority process for your processor.
-"-threads 8" Grants all processor cores to CSGO. DEPRECATED: Source Engine use at max 4.
 "-freq 144 -tickrate 128" Highest refresh rate and tickrate possible
 "-nod3d9ex" Disables a DirectX extension that makes alt tab faster.
 "-noforcemparms -noforcemspd -noforcemaccel" Disable all default settings, let the autoexec decide
@@ -8,7 +7,7 @@
 "-console" Open console at startup of CS:GO
 "+autoexec" "Execute Autoexec"
 
--high -threads 8 -freq 144 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec
+-high -freq 144 -tickrate 128 -nod3d9ex -noforcemparms -noforcemspd -noforcemaccel -novid -nojoy -console +autoexec
 
 If you are playing on Windows Right click csgo.exe, properties, compatibility,
 then check the "Disable visual themes" and "Disable desktop composition".
