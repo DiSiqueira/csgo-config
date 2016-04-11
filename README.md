@@ -13,7 +13,7 @@ Counter Strike: Global Offensive is an online tactical and first-person shooter 
 [Official Blog of CS:GO](http://blog.counter-strike.net)
 
 
-## How to use the CFGs
+## How to use this repository
 
 You can download the Zip or Clone the Repository and put the `ludo237` folder inside the `cfg` folder of Counter Strike: Global Offensive
 
