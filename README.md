@@ -15,7 +15,7 @@ Counter Strike: Global Offensive is an online tactical and first-person shooter 
 
 ## How to use this repository
 
-You can download the Zip or Clone the Repository and put the `ludo237` folder inside the `cfg` folder of Counter Strike: Global Offensive
+You can download the Zip or Clone the Repository and put the `ludo237` folder and the `autoexec.cfg` inside the `cfg` folder of Counter Strike: Global Offensive
 
 **Default paths:**
 
@@ -30,7 +30,7 @@ You can download the Zip or Clone the Repository and put the `ludo237` folder in
 
 `~/.steam/steam/SteamApps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/`
 
-After that simply open your autoexec.cfg and write `exec ludo237\bootstrap` and everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configurations
+Once it's done, just open steam, and set the launchoptions provided, everything will be loaded when you start the game, the console will give you feedbacks about the loading status of the configuration.
 
 ## Multiple CrossAir
 
