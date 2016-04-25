@@ -2,8 +2,8 @@ Current Video Settings
 
 Global Shadow Quality: high
 Model/Texture Detail: low
-Effect Detail: medium
-Shader Detail: medium
+Effect Detail: low
+Shader Detail: low
 Multicore Rendering: Enabled
 MSAA: 2x
 Texture Filtering: Bilinear
