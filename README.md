@@ -22,6 +22,7 @@ You can download the Zip or Clone the Repository and put the `ludo237` folder an
 * Windows:
 
 `C:\Program Files(x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg`
+
 * OSx:
 
 `/Users/<UserName>/Library/Application Support/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/`
